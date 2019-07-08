@@ -5,7 +5,8 @@ little node app for testing webhooks
 
 Download the `index.js` file and run:
 
-```$ node index.js
+```
+$ node index.js
 Server running at http://localhost:3000/
 ```
 
@@ -30,3 +31,7 @@ paste the content and create the link:
 then reload NGINX:
 
 `systemctl restart nginx`
+
+## Credits
+
+[StackOverflow](https://stackoverflow.com/a/46787467/3616147)
